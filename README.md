@@ -1,5 +1,5 @@
 # CSGO Player Detector
-
+This is a course project completed with other 2 student
 Introduction
 This is a computer vision project based on YOLOv11n that automatically detects player characters (CT and T) in the CSGO game. The project supports both still image and real-time video processing, suitable for game analysis and live streaming applications.
 
